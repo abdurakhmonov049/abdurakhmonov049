@@ -19,7 +19,7 @@ https://t.me/Diyorbek_09_06
 📝 I regularly write articles on  
 📄 Know about my experiences  
 ⚡ Fun fact i like to travel and talk to people and make friends
-
+<hr>
 ⚡ TECHONOLOGIES
 <hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   
@@ -32,7 +32,7 @@ https://t.me/Diyorbek_09_06
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />    
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+<hr>
 📊 Statistic
 <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakhmonov049)](https://github.com/anuraghazra/github-readme-stats)

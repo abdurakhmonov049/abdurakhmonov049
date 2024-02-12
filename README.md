@@ -12,11 +12,11 @@ https://t.me/Diyorbek_09_06
 🧑‍💻 ABOUT ME
 
 🌱 I’m currently learning Laravel,PostgreSQL.
+<br>
 👨‍💻 All of my projects are available at https://t.me/abdurakhmonov_049
 📝 I regularly write articles on  
 📄 Know about my experiences  
 ⚡ Fun fact i like to travel and talk to people and make friends
-
 
 ⚡ TECHONOLOGIES
 

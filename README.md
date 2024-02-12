@@ -19,7 +19,7 @@ https://t.me/Diyorbek_09_06
 
 🎮 Games 🔝
 <img src="![image](https://github.com/abdurakhmonov049/abdurakhmonov049/assets/138564498/43530f84-4f98-4c5d-bd62-592db6374ba7)
-"
+" style="width:100px";>
 
 ⚡ TECHONOLOGIES
 

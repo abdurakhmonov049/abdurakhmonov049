@@ -9,6 +9,7 @@ I am always open to projects. to connect with me.
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />   
 https://t.me/Diyorbek_09_06
 
+<hr>
 🧑‍💻 ABOUT ME
 <hr>
 
